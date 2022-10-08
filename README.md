@@ -48,7 +48,7 @@
 
 
 ### Data Science  
-<div align="center" style="border: 0">  
+<div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="25" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
@@ -83,11 +83,11 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=fatimasr68&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimasr68&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
