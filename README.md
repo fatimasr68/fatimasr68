@@ -9,10 +9,10 @@
   
 
 - 🌐 Visit my [porfolio website](https://fatimasr68.github.io/React-Website/).
-- 👋 My personal [blog](https://fatimasr68.github.io/blog/)
+
 - 🌱 I’m currently learning **React Js**
   
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Front-end technologies  
 
 - ⚡ Fun fact: I use tabs over spaces  
 
