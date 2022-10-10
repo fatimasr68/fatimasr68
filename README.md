@@ -9,7 +9,6 @@
   
 - ❓ Ask me about anything related to Front-end technologies  
 
-- ⚡ Fun fact: I use tabs over spaces  
 
 
 <br/>  
