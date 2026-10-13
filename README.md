@@ -76,4 +76,3 @@ I'm always interested in exchanging ideas about frontend engineering, financial 
 - **LinkedIn:** [Fateme Souri Seyedlar](https://www.linkedin.com/in/fateme-souri-seyedlar)
 - **GitHub:** [@fatimasr68](https://github.com/fatimasr68)
 - **Kaggle:** [fatimasr](https://www.kaggle.com/fatimasr)
-- **Stack Overflow:** [Profile](https://stackoverflow.com/users/19957987)
