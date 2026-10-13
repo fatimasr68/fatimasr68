@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://fatimasr68.github.io/React-Website/">Portfolio</a> 路
   <a href="https://www.linkedin.com/in/fateme-souri-seyedlar">LinkedIn</a> 路
   <a href="https://github.com/fatimasr68">GitHub</a>
 </p>
@@ -75,8 +74,6 @@ A C# / WPF project featuring custom forms and data visualizations, including bar
 I'm always interested in exchanging ideas about frontend engineering, financial technology, and practical applications of AI.
 
 - **LinkedIn:** [Fateme Souri Seyedlar](https://www.linkedin.com/in/fateme-souri-seyedlar)
-- **Portfolio:** [React Website](https://fatimasr68.github.io/React-Website/)
 - **GitHub:** [@fatimasr68](https://github.com/fatimasr68)
 - **Kaggle:** [fatimasr](https://www.kaggle.com/fatimasr)
 - **Stack Overflow:** [Profile](https://stackoverflow.com/users/19957987)
-- **GitLab:** [fatima.sr](https://gitlab.com/fatima.sr)
