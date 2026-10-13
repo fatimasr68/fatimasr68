@@ -1,101 +1,82 @@
+<h1 align="center">Hi, I'm Fateme Souri Seyedlar 馃憢</h1>
 
-## Hi 👋 I am Fatima! 
-### <div align="left">Software Developer 👨‍💻 Working Remotely 🚀</div>  
+<p align="center">
+  <strong>Software Developer 路 Frontend Engineering 路 Angular & TypeScript</strong>
+</p>
 
+<p align="center">
+  <a href="https://fatimasr68.github.io/React-Website/">Portfolio</a> 路
+  <a href="https://www.linkedin.com/in/fateme-souri-seyedlar">LinkedIn</a> 路
+  <a href="https://github.com/fatimasr68">GitHub</a>
+</p>
 
-- 🌐 Visit my [porfolio website](https://fatimasr68.github.io/React-Website/).
+---
 
-- 🌱 I’m currently learning **React Js**
-  
-- ❓ Ask me about anything related to Front-end technologies  
+## About me
 
+I'm a software developer with an **M.Sc. in Computer Engineering from the University of Tehran**. I currently work at **Iran Mercantile Exchange (IME)**, focusing on frontend development for business applications in the financial and commodity-market domain.
 
+My main focus is building maintainable web interfaces with **Angular, TypeScript, and JavaScript**. I enjoy creating reusable components, working with API-driven applications, and improving the usability and structure of complex business workflows.
 
-<br/>  
+I also have an academic background in **machine learning and deep learning**, including a project on emotion prediction using neural networks. I'm interested in bringing modern web engineering and AI together to build useful, real-world products.
 
+## What I'm focused on
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+- Developing maintainable, component-based frontend applications.
+- Building data-driven interfaces, forms, and API integrations.
+- Exploring React and modern full-stack development.
+- Applying my AI/ML background to practical software projects.
 
+## Tech stack
 
+### Frontend
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-</div>
+<p>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="RxJS" src="https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="Kendo UI" src="https://img.shields.io/badge/Kendo_UI-FF6358?style=flat&logo=progress&logoColor=white" />
+</p>
 
-</td><td valign="top" width="33%">
+### Additional technologies and interests
 
+<p>
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
+## Selected projects
 
-### Backend  
-<div align="center" >  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-</div>
+### [React Website](https://github.com/fatimasr68/React-Website)
+A responsive React website featuring reusable UI, form validation, navigation, and interactive sliders.
 
-</td><td valign="top" width="33%">
+**Live demo:** [fatimasr68.github.io/React-Website](https://fatimasr68.github.io/React-Website/)
 
+### [Emotion Prediction with DNN](https://github.com/fatimasr68/Emotion-Prediction-DNN)
+An academic deep-learning project exploring emotion prediction using neural networks.
 
+### [WPF Forms](https://github.com/fatimasr68/WPF-Forms)
+A C# / WPF project featuring custom forms and data visualizations, including bar, line, pie, area, and scatter charts.
 
-### Data Science  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="25" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
-</div>
+## Education
 
-</td></tr></table>  
+**M.Sc. in Computer Engineering** 路 University of Tehran
 
-<br/>  
+## Let's connect
 
+I'm always interested in exchanging ideas about frontend engineering, financial technology, and practical applications of AI.
 
-## Connect with me  
-<div align="left">
-<a href="https://github.com/fatimasr68" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/19957987" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/fatimasr" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/fatima.sr" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/fateme-souri-seyedlar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fatimasr68&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimasr68&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Profile View
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=fatimasr68&&style=flat-square" align="center" />
-</div>  
+- **LinkedIn:** [Fateme Souri Seyedlar](https://www.linkedin.com/in/fateme-souri-seyedlar)
+- **Portfolio:** [React Website](https://fatimasr68.github.io/React-Website/)
+- **GitHub:** [@fatimasr68](https://github.com/fatimasr68)
+- **Kaggle:** [fatimasr](https://www.kaggle.com/fatimasr)
+- **Stack Overflow:** [Profile](https://stackoverflow.com/users/19957987)
+- **GitLab:** [fatima.sr](https://gitlab.com/fatima.sr)
